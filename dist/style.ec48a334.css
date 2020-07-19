@@ -1,0 +1,2 @@
+*{margin:0;padding:0}*,:after,:before{box-sizing:border-box}#div1{position:fixed;left:50%;top:50px;transform:translateX(-50%)}#div1:after,#div1:before{position:absolute;content:"";display:block}#html{word-break:break-all}@media (max-width:500px){#html{overflow:auto}#html,#Wrapper{height:50vh}#div1{position:relative;top:0;right:0}}
+/*# sourceMappingURL=style.ec48a334.css.map */
